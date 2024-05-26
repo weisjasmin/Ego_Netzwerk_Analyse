@@ -1,0 +1,27 @@
+
+Codebuch
+
+Edgelist
+--------
+from = ID des Startknotens
+to = ID des Endknotens
+weight = Beziehungsgewicht codiert als:
+1 = mindestens ein Mal im Monat
+2 = mindestens ein Mal pro Woche
+3 = täglich
+relation = Beziehungsverhältnisse codiert nach:
+6 = Kommilitone/in
+10 = Freund/in
+
+Nodelist
+--------
+id = ID aus der Edgelist, Abkürzung vom Namen
+name = Voller Name der Person
+age = Alter der Person
+education = Bildungsabschluss codiert als:
+4 = Abitur
+3 = Fachhochschulreife
+religion = Religionszugehörigkeit einer Person codiert als:
+1 = evangelisch
+2 = katholisch
+3 = keine
