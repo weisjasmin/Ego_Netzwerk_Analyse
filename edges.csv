@@ -1,7 +1,7 @@
-id,from,to,weight,relation
-1,A,B,2,Friend
-2,A,C,2,Friend
-3,A,D,1,Friend
-4,B,C,3,Friend
-5,C,D,1,Friend
-6,D,A,1,Friend
+from,to,weight,relation
+A,B,2,Friend
+A,C,2,Friend
+A,D,1,Friend
+B,C,3,Friend
+C,D,1,Friend
+D,A,1,Friend
