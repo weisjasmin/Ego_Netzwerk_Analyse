@@ -1,7 +1,0 @@
-from;to;weight;relation
-A;B;2;Friend
-A;C;2;Friend
-A;D;1;Friend
-B;C;3;Friend
-C;D;1;Friend
-D;A;1;Friend
